@@ -1,0 +1,4 @@
+so this is no 2 with github
+more text added
+with git 
+git push origin main
